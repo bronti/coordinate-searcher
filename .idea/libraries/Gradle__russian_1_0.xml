@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: russian-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene.morphology/russian/1.0/55b1a7cf534e8be51423245e06aa796b65a685b9/russian-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.lucene.morphology/russian/1.0/f551d500e8bc051ab62ca1bb3a7cfab3eee3d46/russian-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

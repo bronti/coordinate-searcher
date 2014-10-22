@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Indexer/Indexer.iml" filepath="$PROJECT_DIR$/Indexer/Indexer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searcher/Searcher.iml" filepath="$PROJECT_DIR$/Searcher/Searcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate-searcher.iml" filepath="$PROJECT_DIR$/coordinate-searcher.iml" />
+    </modules>
+  </component>
+</project>
+
