@@ -1,3 +1,7 @@
+<strong> To build: </strong>
+
+./gradlew installApp
+
 <strong> Indexer: </strong>
 
 </br>
